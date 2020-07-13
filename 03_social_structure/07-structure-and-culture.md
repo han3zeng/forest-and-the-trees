@@ -55,7 +55,7 @@
 
 #### 衝突代表：馬克思
 * 資本主義結構
-    1. Proletarian
+    1. Proletariat
     2. Bourgeoisie
     3. 生產工具
 * 衝突來源
